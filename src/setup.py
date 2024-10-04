@@ -22,6 +22,7 @@ setup(
     install_requires=[
         "Flask",
         "requests",
+        "pillow"
     ],
     entry_points={
         'console_scripts': [
