@@ -67,7 +67,7 @@ def main():
     EXAMPLE_USE='''
 Example of use:
 
-image-label-convert -i "~/.config/image-label-server/sqlite_dbs/ber2024-body.db" -o "some_name.csv"
+image-label-export-csv -i "~/.config/image-label-server/sqlite_dbs/ber2024-body.db" -o "some_name.csv"
     '''
     
     # Inicializa o parser
